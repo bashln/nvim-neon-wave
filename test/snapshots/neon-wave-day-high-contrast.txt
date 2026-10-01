@@ -290,7 +290,7 @@ FzfLuaHeaderBind fg=10748298 bg=nil sp=nil b=0 i=0 u=0 uc=0
 FzfLuaHeaderText fg=21939 bg=nil sp=nil b=0 i=0 u=0 uc=0
 FzfLuaNormal fg=395285 bg=15330291 sp=nil b=0 i=0 u=0 uc=0
 FzfLuaPath fg=395285 bg=nil sp=nil b=0 i=0 u=0 uc=0
-FzfLuaSearch fg=16645630 bg=12565401 sp=nil b=0 i=0 u=0 uc=0
+FzfLuaSearch fg=395285 bg=12565401 sp=nil b=0 i=0 u=0 uc=0
 FzfLuaTabMarker fg=6379521 bg=nil sp=nil b=0 i=0 u=0 uc=0
 FzfLuaTabTitle fg=10748298 bg=nil sp=nil b=1 i=0 u=0 uc=0
 FzfLuaTitle fg=10748298 bg=nil sp=nil b=1 i=0 u=0 uc=0
@@ -610,7 +610,7 @@ ScrollbarSearch fg=6379521 bg=nil sp=nil b=0 i=0 u=0 uc=0
 ScrollbarSearchHandle fg=6379521 bg=15790584 sp=nil b=0 i=0 u=0 uc=0
 ScrollbarWarn fg=6379521 bg=nil sp=nil b=0 i=0 u=0 uc=0
 ScrollbarWarnHandle fg=6379521 bg=15790584 sp=nil b=0 i=0 u=0 uc=0
-Search fg=16645630 bg=12565401 sp=nil b=0 i=0 u=0 uc=0
+Search fg=395285 bg=12565401 sp=nil b=0 i=0 u=0 uc=0
 SignColumn fg=7435653 bg=16645630 sp=nil b=0 i=0 u=0 uc=0
 SnacksDashboardDesc fg=395285 bg=nil sp=nil b=0 i=0 u=0 uc=0
 SnacksDashboardDir fg=5395809 bg=nil sp=nil b=0 i=0 u=0 uc=0
@@ -762,4 +762,6 @@ WhichKeySeparator fg=5395809 bg=nil sp=nil b=0 i=0 u=0 uc=0
 WhichKeyTitle fg=10748298 bg=nil sp=nil b=1 i=0 u=0 uc=0
 WhichKeyValue fg=5395809 bg=nil sp=nil b=0 i=0 u=0 uc=0
 Whitespace fg=15330291 bg=nil sp=nil b=0 i=0 u=0 uc=0
+WinBar fg=395285 bg=16645630 sp=nil b=0 i=0 u=0 uc=0
+WinBarNC fg=395285 bg=15790584 sp=nil b=0 i=0 u=0 uc=0
 WinSeparator fg=15330291 bg=nil sp=nil b=0 i=0 u=0 uc=0

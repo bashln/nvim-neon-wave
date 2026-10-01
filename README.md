@@ -9,8 +9,8 @@ Ships five variants:
 | --- | --- | --- |
 | `neon-wave` | dark | the design palette |
 | `neon-wave-day` | light | for bright rooms |
-| `neon-wave-high-contrast` | dark | every ANSI color reaches WCAG AAA |
-| `neon-wave-day-high-contrast` | light | every ANSI color reaches WCAG AAA |
+| `neon-wave-high-contrast` | dark | the six normal ANSI colors reach WCAG AAA |
+| `neon-wave-day-high-contrast` | light | the six normal ANSI colors reach WCAG AAA |
 | `neon-wave-oled` | pure black | panels stay off on OLED |
 
 ## Install
@@ -69,6 +69,10 @@ require('neon-wave').setup({
   terminal = true,
 })
 ```
+
+`transparent` applies to editor windows (`Normal`, `NormalNC`, `SignColumn`,
+`FoldColumn`, `EndOfBuffer`). Floats and popups keep their background for
+readability.
 
 ## Health
 
